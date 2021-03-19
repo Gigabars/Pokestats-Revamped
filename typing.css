@@ -1,0 +1,95 @@
+#ty-normal
+{
+    background-color: #aaaa99;
+    box-shadow: inset 0 -4px  #6f6f5d; /*40%*/
+}
+#ty-fire
+{
+    background-color: #ff4422;
+    box-shadow: inset 0 -4px #cc1f00; /*40%*/
+}
+#ty-water
+{
+    background-color: #3399ff;
+    box-shadow: inset 0 -4px #0066cc; /*40%*/
+}
+#ty-electric
+{
+    background-color: #ffcc33;
+    box-shadow: inset 0 -4px #cc9900; /*40%*/
+}
+#ty-grass
+{
+    background-color: #68b741;
+    box-shadow: inset 0 -4px #569735; /*40%*/
+}
+#ty-ice
+{
+    background-color: #66ccff;
+    box-shadow: inset 0 -4px #0088cc; /*40%*/
+}
+#ty-fighting
+{
+    background-color: #bb5544;
+    box-shadow: inset 0 -4px #964436; /*40%*/
+}
+#ty-poison
+{
+    background-color: #aa5599;
+    box-shadow: inset 0 -4px #88447a; /*40%*/
+}
+#ty-ground
+{
+    background-color: #ddbb55;
+    box-shadow: inset 0 -4px #aa8822; /*40%*/
+}
+#ty-flying
+{
+    background-color: #8899ff;
+    box-shadow: inset 0 -4px #4d67ff; /*65%*/
+}
+#ty-psychic
+{
+    background-color: #ff5599;
+    box-shadow: inset 0 -4px #cc0052; /*40%*/
+}
+#ty-bug
+{
+    background-color: #aabb22;
+    box-shadow: inset 0 -4px #88971c; /*35%*/
+}
+#ty-rock
+{
+    background-color: #bbaa66;
+    box-shadow: inset 0 -4px #8d7d3f; /*40%*/
+}
+#ty-ghost
+{
+    background-color: #6666bb;
+    box-shadow: inset 0 -4px #3f3f8d; /*40%*/
+}
+#ty-dragon
+{
+    background-color: #7766ee;
+    box-shadow: inset 0 -4px #2a14b8; /*40%*/
+}
+#ty-dark
+{
+    background-color: #775544;
+    box-shadow: inset 0 -4px #513a2f; /*25%*/
+}
+#ty-steel
+{
+    background-color: #aaaabb;
+    box-shadow: inset 0 -4px #5b5b71; /*40%*/
+}
+#ty-fairy
+{
+    background-color: #ee99ee;
+    box-shadow: inset 0 -4px #ae1eae; /*40%*/
+}
+#ty-what
+{
+    background-color: #68a090;
+    box-shadow: inset 0 -4px #4f7d70; /*40%*/
+}

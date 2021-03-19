@@ -74,13 +74,14 @@ case 7:
 break;
 case 8:
     newPokemon.abl = document.querySelector("#input").value;
-    document.getElementById('question').innerHTML = "great, now, please now paste a link to the image of the pokemon.";
+    document.getElementById('question').innerHTML = "great, lastly, please paste a link to the image of the pokemon.";
     document.getElementById('input').value = "";
 break;
 case 9:
     //last case
     newPokemon.imglink = document.querySelector("#input").value;
     document.getElementById('input').value = "";
+    location.href = "final.html";
 break;
     }
 }
