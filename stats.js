@@ -81,7 +81,7 @@ case 9:
     //last case
     newPokemon.imglink = document.querySelector("#input").value;
     document.getElementById('input').value = "";
-    localStorage.setItem("poke", JSON.stringify(newPokemon));
+    sessionStorage.setItem("poke", JSON.stringify(newPokemon));
     location.href = "final.html";
 break;
     }

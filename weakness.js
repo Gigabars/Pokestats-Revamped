@@ -65,7 +65,7 @@ function if4xWeak()
 
 function weakness()
 {
-    newPokemon = JSON.parse(window.localStorage.getItem("poke"));
+    newPokemon = JSON.parse(window.sessionStorage.getItem("poke"));
 var type1out = newPokemon.type1;
 var type2out = newPokemon.type2;
 type1out = type1out.toLowerCase();
